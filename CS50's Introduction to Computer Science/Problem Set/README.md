@@ -5,9 +5,9 @@
     - <a href = "https://github.com/Halston1031/Algorithm/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%201/Cash">cash</a>
     - <a href = "https://github.com/Halston1031/Algorithm/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%201/Credit">credit</a>
 - Problem Set 2: Crypto - Assignments 2
-    - <a href = "https://github.com/Halston1031/OCW/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%202/Caesar">caesar</a>
-    - <a href = "https://github.com/Halston1031/OCW/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%202/Substitution">substitution</a>
-    - <a href = "https://github.com/Halston1031/OCW/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%202/Readability">readability</a>
+    - <a href = "https://github.com/Halston1031/Algorithm/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%202/Caesar">caesar</a>
+    - <a href = "https://github.com/Halston1031/Algorithm/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%202/Substitution">substitution</a>
+    - <a href = "https://github.com/Halston1031/Algorithm/tree/main/CS50's%20Introduction%20to%20Computer%20Science/Problem%20Set/Problem%20Set%202/Readability">readability</a>
 - Problem Set3: Elections - Assignments 3
     - plurality
     - runoff
