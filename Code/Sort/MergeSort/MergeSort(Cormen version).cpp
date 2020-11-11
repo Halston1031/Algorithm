@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  MergeSort.cpp
 //  MergeSort
 //
 //  Created by 曾億宜 on 2020/11/6.
