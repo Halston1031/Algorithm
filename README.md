@@ -11,6 +11,4 @@ Record my learning process🧸
 - <a href = "https://online.stanford.edu/free-courses"> Stanford </a>
 - <a href = "https://ocw.mit.edu/index.htm"> MIT OCW </a>
 - <a href = "https://www.coursera.org"> Coursera </a>
-- <a href = "https://www.edx.org"> Edx </a>
-- <a href = "https://www.udemy.com"> Udemy </a>
 
