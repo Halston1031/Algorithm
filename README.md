@@ -1,5 +1,5 @@
 # Algorithm
-![](https://github.com/Halston1031/WEB-Programming/blob/main/Resources/Algorithm.jpg)
+![](https://github.com/Halston1031/Web/blob/main/Pratices/Resources/Algorithm.jpg)
 ## Description
 Record my learning process🧸
 ## Usage
