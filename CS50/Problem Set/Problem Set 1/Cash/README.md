@@ -1,5 +1,5 @@
 # Cash
-![](https://github.com/Halston1031/WEB/blob/main/Resources/coins.jpg)
+![](https://github.com/Halston1031/Web/blob/main/Pratices/Resources/coins.jpg)
 <h2 id="Greedy Algorithms"><a href= "#Greedy Algorithms">Greedy Algorithms</a></h2>
 
 When making change, odds are you want to minimize the number of coins you’re dispensing for each customer, lest you run out (or annoy the customer!). Fortunately, computer science has given cashiers everywhere ways to minimize numbers of coins due: greedy algorithms.

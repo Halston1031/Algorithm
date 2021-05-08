@@ -1,4 +1,4 @@
-![](https://github.com/Halston1031/WEB/blob/main/Resources/CS50.jpeg)
+![](https://github.com/Halston1031/Web/blob/main/Pratices/Resources/CS50.jpeg)
 ## Description
 Record course content🧸
 ## Usage
